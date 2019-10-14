@@ -24,7 +24,7 @@
 
 ## 4、创建动作
 
-![](C:\Users\MSXQ\Desktop\CS6批量替换证件照底色\img\D1.png)
+![](img\D1.png)
 
 
 
@@ -46,7 +46,7 @@
 
 ## 6、替换颜色
 
-![](C:\Users\MSXQ\Desktop\CS6批量替换证件照底色\img\F1.png)
+![](img\F1.png)
 
 
 
